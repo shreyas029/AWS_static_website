@@ -20,4 +20,4 @@ Go to 'Objects' tab and choose the files which has to be uploaded.
 Refresh the link and now you can view the contents of your static website.
 ![ss7](https://github.com/user-attachments/assets/d6cba11e-de2e-456b-8f8e-f50e9beb5b9b)
 
-The link contains the URL to my [[Medium]]([url](https://shreyassrinivasa297.medium.com/) blog page.
+The link contains the URL to my Medium([url](https://shreyassrinivasa297.medium.com/) blog page.
