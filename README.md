@@ -11,7 +11,7 @@ At the end of the webpage, you can find a link to access the website and by defa
 Now we need to edit the bucket policy which can allow contents of the bucket to be publicly available. I have attached the Policy code, update the bucket name. And Save changes.
 ![ss5](https://github.com/user-attachments/assets/e87d1157-3314-40e0-bd69-7ccb3d5a247c)
 And Save changes.
-I have created a simple HTML page, which links to my Medium blog.
+I have created a simple HTML page, which links to my [Medium](https://shreyassrinivasa297.medium.com/) blog.
 Go to 'Objects' tab and choose the files which has to be uploaded. 
 ![ss6](https://github.com/user-attachments/assets/9e293522-6131-44af-89e4-7a2336837934)
 Refresh the link and now you can view the contents of your static website.
